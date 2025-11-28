@@ -1,8 +1,11 @@
 # 👨🏽‍💻Jadson Silva
 
-**`Desenvolvedor FullStack`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36F&lines=Desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
 
-Desenvolvedor Front-end com experiência na criação de Landing Pages, e-mails marketing e páginas em WordPress (Elementor). Trabalho com HTML, CSS, JavaScript e PHP, sempre priorizando performance, responsividade e boa experiência do usuário. Atuo na construção de interfaces orientadas à conversão e manutenção de ativos digitais de marketing. Sou proativo, organizado e movido a aprender rápido especialmente quando o desafio envolve transformar design em resultados reais.
+
+Me chamo Jadson Araújo da Silva, tenho 18 anos e sou do Ceará. Sempre gostei de tecnologia e acabei seguindo esse caminho de forma natural. Concluí o ensino médio junto com o curso técnico em Redes de Computadores, o que abriu ainda mais minha curiosidade pelo mundo do desenvolvimento.
+
+Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criando projetos, testando ideias novas ou simplesmente aprendendo algo diferente que possa me levar mais longe. Gosto de construir coisas que façam sentido e me desafiem de verdade.
 
 ---
 
@@ -115,4 +118,10 @@ Desenvolvedor Front-end com experiência na criação de Landing Pages, e-mails 
 
 <br/>
 <br/>
+
+## 🌐 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-a-silva)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.jadson)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1F1F1F?style=for-the-badge&logo=window&logoColor=white)](https://dev-jadson.com)
+
 
