@@ -112,7 +112,7 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpsJadson&show_icons=true&theme=dark&hide_title=true&card_width=450)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsJadson&layout=compact&bg_color=151515&title_color=ffffff&text_color=9F9F9F&card_width=320)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=httpsJadson&layout=compact&bg_color=151515&title_color=ffffff&text_color=9F9F9F&card_width=320)
 
 
 ## 🌐 Redes Sociais
