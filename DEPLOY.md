@@ -37,9 +37,15 @@ git push origin main
 
 **Configuração necessária no repositório GitHub:**
 1. Vá para Settings → Pages
-2. Source: "GitHub Actions"
+2. Source: "GitHub Actions" (automático)
 3. Custom domain: `portfolio.jadson.cloud`
 4. Salve as configurações
+
+**Workflow atualizado usa:**
+- Actions oficiais do GitHub Pages (`actions/deploy-pages@v4`)
+- Build separado do deploy para melhor controle
+- Permissões adequadas configuradas
+- CNAME automático via artifact
 
 #### **Vercel** (Alternativo)
 ```bash
