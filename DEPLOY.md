@@ -41,6 +41,26 @@ git push origin main
 3. Custom domain: `portfolio.jadson.cloud`
 4. Salve as configurações
 
+**⚠️ IMPORTANTE: Configure o DNS do domínio:**
+No painel do seu provedor de domínio (`jadson.cloud`), adicione estes registros:
+
+**Para subdomínio (recomendado):**
+- **Tipo:** CNAME
+- **Nome:** portfolio
+- **Valor:** httpsjadson.github.io
+
+**Ou para domínio raiz (se portfolio.jadson.cloud for o domínio principal):**
+- **Tipo:** A
+- **Nome:** @
+- **Valores:** 
+  - 185.199.108.153
+  - 185.199.109.153
+  - 185.199.110.153
+  - 185.199.111.153
+
+**Verificar configuração:**
+Após configurar o DNS (pode levar até 24h), o site estará disponível em: https://portfolio.jadson.cloud
+
 **Workflow atualizado usa:**
 - Actions oficiais do GitHub Pages (`actions/deploy-pages@v4`)
 - Build separado do deploy para melhor controle
