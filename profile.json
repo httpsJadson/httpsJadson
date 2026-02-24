@@ -1,0 +1,273 @@
+{
+  "name": "Jadson Silva",
+  "title": "Desenvolvedor Backend",
+  "summary": "Desenvolvedor apaixonado por tecnologia e inovação, especializado em criar soluções que fazem a diferença.",
+
+  "bio": "Olá! Sou Jadson Silva, um desenvolvedor backend de 18 anos apaixonado por tecnologia e inovação. Minha jornada começou aos 16 anos quando descobri a programação, e desde então venho me dedicando a criar soluções que realmente fazem a diferença na vida das pessoas. Especializo-me em desenvolvimento web moderno, com foco em tecnologias assistivas e acessibilidade digital. Acredito que a tecnologia deve ser inclusiva e acessível a todos, por isso dedico parte do meu tempo a projetos sociais e de impacto.",
+
+  "location": "Itaitinga, Ceará, Brasil",
+  "email": "jadson.silva@email.com",
+  "linkedin": "https://linkedin.com/in/jadson-silva",
+  "github": "https://github.com/jadson-silva",
+  "photo": "/images/jadson-profile.jpg",
+
+  "stats": {
+    "projectsCompleted": 10,
+    "yearsExperience": 2,
+    "technologies": 10,
+    "certifications": 6
+  },
+  "projects": [
+    {
+      "id": "expand-up",
+      "title": "Expand UP - Landing Pages & SaaS",
+      "description": "Desenvolvimento de landing pages profissionais com foco em conversão e performance. Atuação completa no front-end e back-end de aplicações SaaS, utilizando HTML, CSS, Tailwind CSS, JavaScript e PHP.",
+      "image": "/images/expand-up.jpg",
+      "technologies": [
+        "JavaScript",
+        "PHP",
+        "WordPress",
+        "Tailwind CSS"
+      ],
+      "featured": true,
+      "url": "https://expandup.com",
+      "github": "https://github.com/jadson-silva/expand-up"
+    },
+    {
+      "id": "e-vision",
+      "title": "E-vision (Tecnologia Assistiva)",
+      "description": "Projeto autônomo de desenvolvimento de tecnologias assistivas para deficientes visuais. Sistema completo de identificação com foco em acessibilidade e inclusão social.",
+      "image": "/images/e-vision.jpg",
+      "technologies": [
+        "Python",
+        "IoT",
+        "Tecnologia Assistiva",
+        "Acessibilidade"
+      ],
+      "featured": true,
+      "url": "https://e-vision.tech"
+    },
+    {
+      "id": "fullstack-apps",
+      "title": "Aplicações Web Full Stack",
+      "description": "Desenvolvimento completo de aplicações web modernas utilizando React/Next.js no frontend e Node.js/NestJS no backend. APIs RESTful, integração com bancos de dados e deploy em nuvem.",
+      "image": "/images/fullstack-apps.jpg",
+      "technologies": [
+        "React",
+        "Next.js",
+        "NestJS",
+        "PostgreSQL"
+      ],
+      "featured": true,
+      "url": "https://portfolio-apps.vercel.app",
+      "github": "https://github.com/jadson-silva/fullstack-apps"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Backend",
+      "icon": "🚀",
+      "technologies": [
+        "NestJS",
+        "Node.js",
+        "Express",
+        "FastAPI",
+        "Python",
+        "PHP",
+        "TypeScript",
+        "REST APIs"
+      ]
+    },
+    {
+      "category": "Banco de Dados",
+      "icon": "🗄️",
+      "technologies": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "MariaDB",
+        "SQLite"
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "icon": "☁️",
+      "technologies": [
+        "AWS",
+        "Google Cloud Platform",
+        "Docker",
+        "Vercel",
+        "Git"
+      ]
+    },
+    {
+      "category": "Ferramentas",
+      "icon": "🛠️",
+      "technologies": [
+        "VS Code",
+        "GitHub",
+        "Linux",
+        "npm",
+        "Webpack",
+        "IntelliJ IDEA"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "aws-cloud-practitioner",
+      "title": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "image": "/images/aws-certified.png",
+      "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+      "date": "2025"
+    },
+    {
+      "id": "javascript-essentials",
+      "title": "JavaScript Essentials 2",
+      "issuer": "Cisco Networking Academy",
+      "image": "/images/cisco-js.png",
+      "url": "https://www.netacad.com/",
+      "date": "2024"
+    },
+    {
+      "id": "engenharia-software",
+      "title": "Engenharia de Software",
+      "issuer": "FIAP",
+      "image": "/images/fiap-engenharia.png",
+      "duration": "100H",
+      "date": "2024"
+    },
+    {
+      "id": "linux-essentials",
+      "title": "NDG Linux Essentials",
+      "issuer": "Cisco Networking Academy",
+      "image": "/images/linux-essentials.png",
+      "url": "https://www.netacad.com/",
+      "date": "2024"
+    },
+    {
+      "id": "data-science-intro",
+      "title": "Introduction to Data Science",
+      "issuer": "Cisco Networking Academy",
+      "image": "/images/data-science-intro.png",
+      "url": "https://www.netacad.com/",
+      "date": "2024"
+    },
+    {
+      "id": "devops-agile",
+      "title": "DevOps e Agile Culture",
+      "issuer": "FIAP",
+      "image": "/images/fiap-devops.png",
+      "duration": "60H",
+      "date": "2024"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Análise e Desenvolvimento de Sistemas",
+      "institution": "Centro Universitário Ateneu",
+      "location": "Fortaleza, CE",
+      "period": "2026 - 2028",
+      "type": "Graduação",
+      "status": "Cursando"
+    },
+    {
+      "degree": "Técnico em Redes de Computadores",
+      "institution": "E.E.E.P. Professor Francisco Aristóteles de Sousa",
+      "location": "Itaitinga, CE",
+      "period": "2023 - 2025",
+      "type": "Técnico",
+      "status": "Concluído"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Estagiário de Desenvolvimento",
+      "company": "Expand UP",
+      "location": "Itaitinga, Ceará, Brasil",
+      "period": "agosto de 2025 - Presente",
+      "duration": "7 meses",
+      "description": "Desenvolvimento de landing pages profissionais com foco em conversão e performance. Atuação no front-end e back-end de aplicações SaaS, utilizando HTML, CSS, Tailwind CSS, JavaScript e PHP. Colaboração em projetos reais, participando desde a implementação até ajustes pós-deploy. Experiência prática com versionamento de código e ambientes de produção.",
+      "technologies": ["JavaScript", "PHP", "WordPress", "Tailwind CSS"],
+      "achievements": [
+        "Desenvolvimento de 5 landing pages com taxa de conversão > 15%",
+        "Implementação de sistema de analytics e tracking",
+        "Otimização de performance (Core Web Vitals)"
+      ]
+    },
+    {
+      "position": "Desenvolvedor - Projeto E-vision",
+      "company": "Autônomo",
+      "location": "Itaitinga, Ceará, Brasil",
+      "period": "março de 2024 - dezembro de 2025",
+      "duration": "1 ano 10 meses",
+      "description": "Projeto autônomo de desenvolvimento de tecnologias assistivas para deficientes visuais. Sistema completo de identificação com foco em acessibilidade e inclusão social. Desenvolvimento de protótipos funcionais e testes com usuários reais.",
+      "technologies": ["Python", "IoT", "Computer Vision", "Acessibilidade"],
+      "achievements": [
+        "Sistema de identificação visual com 85% de precisão",
+        "Protótipo testado com 20 usuários com deficiência visual",
+        "Publicação em revista científica nacional"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Semana da Tecnologia - IFCE",
+      "role": "Palestrante",
+      "organization": "Instituto Federal do Ceará",
+      "location": "Fortaleza, CE",
+      "date": "Outubro 2025",
+      "description": "Palestra sobre 'Tecnologia Assistiva e Inclusão Digital' para estudantes de tecnologia.",
+      "type": "Palestra"
+    },
+    {
+      "title": "Hackathon Social - Ceará",
+      "role": "Participante",
+      "organization": "Governo do Estado do Ceará",
+      "location": "Fortaleza, CE",
+      "date": "Setembro 2025",
+      "description": "Desenvolvimento de solução para acessibilidade urbana durante 48h de programação.",
+      "type": "Hackathon",
+      "achievement": "2º lugar - Melhor Solução Social"
+    },
+    {
+      "title": "Meetup React Ceará",
+      "role": "Organizador",
+      "organization": "Comunidade React Ceará",
+      "location": "Fortaleza, CE",
+      "date": "Agosto 2025",
+      "description": "Organização de meetup mensal sobre React e tecnologias web modernas.",
+      "type": "Meetup"
+    },
+    {
+      "title": "Workshop Python para Iniciantes",
+      "role": "Instrutor",
+      "organization": "Centro Universitário Ateneu",
+      "location": "Fortaleza, CE",
+      "date": "Julho 2025",
+      "description": "Ministração de workshop introdutório à programação Python para estudantes.",
+      "type": "Workshop"
+    },
+    {
+      "title": "Congresso Brasileiro de Computação",
+      "role": "Participante",
+      "organization": "SBC - Sociedade Brasileira de Computação",
+      "location": "João Pessoa, PB",
+      "date": "Junho 2025",
+      "description": "Participação no maior evento de computação do Brasil, networking e aprendizado.",
+      "type": "Congresso"
+    }
+  ],
+  "contact": {
+    "email": "jadson.silva@email.com",
+    "phone": "+55 (85) 99999-9999",
+    "location": "Itaitinga, Ceará, Brasil",
+    "social": {
+      "linkedin": "https://linkedin.com/in/jadson-silva",
+      "github": "https://github.com/jadson-silva",
+      "twitter": "https://twitter.com/jadson_silva",
+      "instagram": "https://instagram.com/jadson.silva"
+    }
+  }
+}
