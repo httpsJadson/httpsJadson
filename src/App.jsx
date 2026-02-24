@@ -39,7 +39,6 @@ function App() {
     events,
     contact
   } = profile
-
   const scrollToSection = (sectionId) => {
     setActiveSection(sectionId)
     setIsMenuOpen(false)

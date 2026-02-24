@@ -9,7 +9,7 @@
   "email": "jadson.silva@email.com",
   "linkedin": "https://linkedin.com/in/jadson-silva",
   "github": "https://github.com/jadson-silva",
-  "photo": "/images/jadson-profile.jpg",
+  "photo": "/httpsJadson/images/jadson-profile.jpg",
 
   "stats": {
     "projectsCompleted": 10,
@@ -22,7 +22,7 @@
       "id": "expand-up",
       "title": "Expand UP - Landing Pages & SaaS",
       "description": "Desenvolvimento de landing pages profissionais com foco em conversão e performance. Atuação completa no front-end e back-end de aplicações SaaS, utilizando HTML, CSS, Tailwind CSS, JavaScript e PHP.",
-      "image": "/images/expand-up.jpg",
+      "image": "/httpsJadson/images/expand-up.jpg",
       "technologies": [
         "JavaScript",
         "PHP",
@@ -37,7 +37,7 @@
       "id": "e-vision",
       "title": "E-vision (Tecnologia Assistiva)",
       "description": "Projeto autônomo de desenvolvimento de tecnologias assistivas para deficientes visuais. Sistema completo de identificação com foco em acessibilidade e inclusão social.",
-      "image": "/images/e-vision.jpg",
+      "image": "/httpsJadson/images/e-vision.jpg",
       "technologies": [
         "Python",
         "IoT",
@@ -51,7 +51,7 @@
       "id": "fullstack-apps",
       "title": "Aplicações Web Full Stack",
       "description": "Desenvolvimento completo de aplicações web modernas utilizando React/Next.js no frontend e Node.js/NestJS no backend. APIs RESTful, integração com bancos de dados e deploy em nuvem.",
-      "image": "/images/fullstack-apps.jpg",
+      "image": "/httpsJadson/images/fullstack-apps.jpg",
       "technologies": [
         "React",
         "Next.js",
@@ -118,7 +118,7 @@
       "id": "aws-cloud-practitioner",
       "title": "AWS Certified Cloud Practitioner",
       "issuer": "Amazon Web Services",
-      "image": "/images/aws-certified.png",
+      "image": "/httpsJadson/images/aws-certified.png",
       "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
       "date": "2025"
     },
@@ -126,7 +126,7 @@
       "id": "javascript-essentials",
       "title": "JavaScript Essentials 2",
       "issuer": "Cisco Networking Academy",
-      "image": "/images/cisco-js.png",
+      "image": "/httpsJadson/images/cisco-js.png",
       "url": "https://www.netacad.com/",
       "date": "2024"
     },
@@ -134,7 +134,7 @@
       "id": "engenharia-software",
       "title": "Engenharia de Software",
       "issuer": "FIAP",
-      "image": "/images/fiap-engenharia.png",
+      "image": "/httpsJadson/images/fiap-engenharia.png",
       "duration": "100H",
       "date": "2024"
     },
@@ -142,7 +142,7 @@
       "id": "linux-essentials",
       "title": "NDG Linux Essentials",
       "issuer": "Cisco Networking Academy",
-      "image": "/images/linux-essentials.png",
+      "image": "/httpsJadson/images/linux-essentials.png",
       "url": "https://www.netacad.com/",
       "date": "2024"
     },
@@ -150,7 +150,7 @@
       "id": "data-science-intro",
       "title": "Introduction to Data Science",
       "issuer": "Cisco Networking Academy",
-      "image": "/images/data-science-intro.png",
+      "image": "/httpsJadson/images/data-science-intro.png",
       "url": "https://www.netacad.com/",
       "date": "2024"
     },
@@ -158,7 +158,7 @@
       "id": "devops-agile",
       "title": "DevOps e Agile Culture",
       "issuer": "FIAP",
-      "image": "/images/fiap-devops.png",
+      "image": "/httpsJadson/images/fiap-devops.png",
       "duration": "60H",
       "date": "2024"
     }
