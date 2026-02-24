@@ -65,6 +65,7 @@ Após configurar o DNS (pode levar até 24h), o site estará disponível em: htt
 - Actions oficiais do GitHub Pages (`actions/deploy-pages@v4`)
 - Build separado do deploy para melhor controle
 - Permissões adequadas configuradas
+- Base path configurado para `/httpsJadson/` (subpath do repositório)
 - CNAME automático via artifact
 
 #### **Vercel** (Alternativo)
