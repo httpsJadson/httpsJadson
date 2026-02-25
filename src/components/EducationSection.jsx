@@ -2,7 +2,7 @@ import React from 'react'
 
 function EducationSection({ education, isMobile, showAllEducation, setShowAllEducation }) {
   return (
-    <section id="education" className="py-20 bg-brand-dark relative">
+    <section id="education" className="py-20 bg-brand-dark relative overflow-hidden">
       {/* Abstract Background Elements */}
       <div className="absolute top-0 right-0 w-1/2 h-full bg-brand-blue/50 blur-[120px] rounded-full"></div>
       <div className="absolute bottom-0 left-0 w-1/3 h-1/2 bg-brand-accent/5 blur-[100px] rounded-full"></div>
@@ -31,7 +31,7 @@ function EducationSection({ education, isMobile, showAllEducation, setShowAllEdu
                 </div>
               </div>
               <div className="flex flex-wrap gap-2">
-                <span className="bg-brand-blue/50 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
+                <span className="bg-brand-blue/10 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
                   {edu.type}
                 </span>
               </div>

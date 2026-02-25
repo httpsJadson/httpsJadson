@@ -11,7 +11,7 @@ function CertificationsSection({ certifications, isMobile, showAllCertifications
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {certifications?.slice(0, showAllCertifications ? certifications.length : (isMobile ? 3 : 6)).map((cert, index) => (
-            <div key={cert.id} className="bg-white rounded-xl p-6 shadow-sm hover:shadow-md transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
+            <div key={cert.id} className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
               <div className="w-16 h-16 bg-gradient-to-br from-brand-blue to-brand-accent rounded-lg flex items-center justify-center text-white text-2xl mb-4">
                 🏆
               </div>

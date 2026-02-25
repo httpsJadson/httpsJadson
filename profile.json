@@ -37,7 +37,7 @@
       "id": "e-vision",
       "title": "E-vision (Tecnologia Assistiva)",
       "description": "Projeto autônomo de desenvolvimento de tecnologias assistivas para deficientes visuais. Sistema completo de identificação com foco em acessibilidade e inclusão social.",
-      "image": null,
+      "image": "images/e-vision.png",
       "technologies": [
         "Python",
         "IoT",

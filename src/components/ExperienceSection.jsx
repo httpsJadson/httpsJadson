@@ -11,7 +11,7 @@ function ExperienceSection({ experience, isMobile, showAllExperience, setShowAll
 
         <div className="space-y-8">
           {experience?.slice(0, showAllExperience ? experience.length : (isMobile ? 3 : 6)).map((exp, index) => (
-            <div key={index} className="bg-white rounded-xl p-8 shadow-sm hover:shadow-md transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
+            <div key={index} className="bg-white rounded-xl p-8 shadow-xl hover:shadow-2xl transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
                 <div>
                   <h3 className="font-display text-xl font-bold text-brand-dark mb-1">{exp.position}</h3>
@@ -35,7 +35,7 @@ function ExperienceSection({ experience, isMobile, showAllExperience, setShowAll
               )}
               <div className="flex flex-wrap gap-2">
                 {exp.technologies.map((tech, i) => (
-                  <span key={i} className="bg-brand-blue/50 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
+                  <span key={i} className="bg-brand-blue/10 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
                     {tech}
                   </span>
                 ))}
