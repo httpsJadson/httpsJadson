@@ -19,10 +19,10 @@
   },
   "projects": [
     {
-      "id": "expand-up",
-      "title": "Expand UP - Landing Pages & SaaS",
-      "description": "Desenvolvimento de landing pages profissionais com foco em conversão e performance. Atuação completa no front-end e back-end de aplicações SaaS, utilizando HTML, CSS, Tailwind CSS, JavaScript e PHP.",
-      "image": null,
+      "id": "calculadora-alimentos",
+      "title": "Celebra Chá - Calculadora de Alimentos",
+      "description": "ShortCode feito em wordpress que adiciona uma calculadora completa de alimentos, incluindo utensílios, espaço para realização do evento e muito mais.",
+      "image": "images/celebra-cha.png",
       "technologies": [
         "JavaScript",
         "PHP",
@@ -30,8 +30,8 @@
         "Tailwind CSS"
       ],
       "featured": true,
-      "url": "https://expandup.com",
-      "github": "https://github.com/jadson-silva/expand-up"
+      "url": "https://celebracha.com.br/calculadora-de-alimentos",
+      "github": null
     },
     {
       "id": "e-vision",

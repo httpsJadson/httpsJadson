@@ -12,7 +12,7 @@ function ProjectsSection({ projects, isMobile, showAllProjects, setShowAllProjec
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 place-items-stretch">
           {projects?.filter(p => p.featured).slice(0, showAllProjects ? projects.filter(p => p.featured).length : (isMobile ? 3 : 6)).map((project, index) => (
             <div key={project.id} className="group bg-white rounded-xl shadow-lg hover:shadow-xl transition animate-fade-in overflow-hidden w-full max-w-sm h-full flex flex-col" style={{animationDelay: `${index * 0.1}s`}}>
-              <div className="h-48 bg-gradient-to-br from-brand-blue to-brand-accent flex items-center justify-center text-white text-6xl flex-shrink-0">
+              <div className="h-48 bg-gradient-to-br from-brand-blue to-brand-accent shadow-md flex items-center justify-center text-white text-6xl flex-shrink-0">
                 {project.image ? <img src={project.image} alt={project.title} className="w-full h-full object-cover" /> : '💼'}
               </div>
               <div className="p-6 flex flex-col flex-grow">
