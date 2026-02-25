@@ -35,7 +35,7 @@ function ExperienceSection({ experience, isMobile, showAllExperience, setShowAll
               )}
               <div className="flex flex-wrap gap-2">
                 {exp.technologies.map((tech, i) => (
-                  <span key={i} className="bg-brand-blue/10 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
+                  <span key={i} className="bg-brand-blue/50 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
                     {tech}
                   </span>
                 ))}

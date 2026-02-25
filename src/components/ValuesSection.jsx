@@ -37,8 +37,9 @@ function ValuesSection() {
   return (
     <section className="py-20 bg-brand-dark relative">
       {/* Abstract Background Elements */}
-      <div className="absolute top-0 right-0 w-1/2 h-full bg-brand-blue/10 blur-[120px] rounded-full"></div>
-      <div className="absolute bottom-0 left-0 w-1/3 h-1/2 bg-brand-accent/5 blur-[100px] rounded-full"></div>
+      <div className="absolute top-1/4 right-20 w-80 h-80 bg-emerald-500/25 blur-[130px] rounded-full animate-pulse-slow"></div>
+      <div className="absolute bottom-20 left-1/3 w-96 h-96 bg-orange-500/20 blur-[120px] rounded-full animate-float" style={{animationDelay: '0.8s'}}></div>
+      <div className="absolute top-0 right-1/3 w-72 h-72 bg-brand-accent/15 blur-[110px] rounded-full animate-float-reverse" style={{animationDelay: '1.3s'}}></div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="text-center mb-16">
           <h2 className="font-display text-4xl font-bold text-white mb-6">Meus Valores</h2>

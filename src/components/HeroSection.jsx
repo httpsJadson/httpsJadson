@@ -4,8 +4,9 @@ function HeroSection({ name, title, summary, photo, scrollToSection }) {
   return (
     <section id="home" className="relative bg-brand-dark min-h-[90vh] flex items-center overflow-hidden py-[5rem]">
       {/* Abstract Background Elements */}
-      <div className="absolute z-1 top-0 right-0 w-1/2 h-full bg-brand-blue/10 blur-[120px] rounded-full"></div>
-      <div className="absolute bottom-0 left-0 w-1/3 h-1/2 bg-brand-accent/5 blur-[100px] rounded-full"></div>
+      <div className="absolute z-1 top-10 right-20 w-96 h-96 bg-brand-blue/50 blur-[150px] rounded-full animate-float"></div>
+      <div className="absolute bottom-20 left-10 w-72 h-72 bg-brand-accent/60 blur-[120px] rounded-full animate-float-reverse"></div>
+      <div className="absolute top-1/2 left-1/2 w-80 h-80 bg-purple-500/25 blur-[140px] rounded-full animate-pulse-slow" style={{animationDelay: '1s'}}></div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative w-full">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">

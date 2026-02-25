@@ -16,7 +16,7 @@ function Header({ name, isMenuOpen, setIsMenuOpen, scrollToSection }) {
           {/* Desktop Menu */}
           <nav className="hidden md:flex space-x-8">
             <button onClick={() => scrollToSection('home')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Início</button>
-            <button onClick={() => scrollToSection('about')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Sobre</button>
+            <button onClick={() => scrollToSection('stats')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Sobre</button>
             <button onClick={() => scrollToSection('projects')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Projetos</button>
             <button onClick={() => scrollToSection('experience')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Experiência</button>
             <button onClick={() => scrollToSection('education')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Educação</button>

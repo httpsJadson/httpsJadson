@@ -4,7 +4,7 @@ function EducationSection({ education, isMobile, showAllEducation, setShowAllEdu
   return (
     <section id="education" className="py-20 bg-brand-dark relative">
       {/* Abstract Background Elements */}
-      <div className="absolute top-0 right-0 w-1/2 h-full bg-brand-blue/10 blur-[120px] rounded-full"></div>
+      <div className="absolute top-0 right-0 w-1/2 h-full bg-brand-blue/50 blur-[120px] rounded-full"></div>
       <div className="absolute bottom-0 left-0 w-1/3 h-1/2 bg-brand-accent/5 blur-[100px] rounded-full"></div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="text-center mb-16">
@@ -31,7 +31,7 @@ function EducationSection({ education, isMobile, showAllEducation, setShowAllEdu
                 </div>
               </div>
               <div className="flex flex-wrap gap-2">
-                <span className="bg-brand-blue/10 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
+                <span className="bg-brand-blue/50 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
                   {edu.type}
                 </span>
               </div>
