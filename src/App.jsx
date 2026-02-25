@@ -11,6 +11,8 @@ import {
   ExperienceSection,
   EducationSection,
   EventsSection,
+  TimelineSection,
+  ValuesSection,
   CertificationsSection,
   ContactSection
 } from './components'
@@ -115,12 +117,16 @@ function App() {
           setShowAllEvents={setShowAllEvents}
         />
 
+        {/* <TimelineSection /> */}
+
         <CertificationsSection
           certifications={certifications}
           isMobile={isMobile}
           showAllCertifications={showAllCertifications}
           setShowAllCertifications={setShowAllCertifications}
         />
+
+        {/* <ValuesSection /> */}
 
         <ContactSection contact={contact} />
       </main>

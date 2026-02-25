@@ -2,16 +2,22 @@ import React from 'react'
 
 function EventsSection({ events, isMobile, showAllEvents, setShowAllEvents }) {
   return (
-    <section className="py-20 bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section id="events" className="py-20 bg-brand-dark relative">
+      {/* Smooth Transition from Education Section */}
+      <div className="absolute top-0 left-0 right-0 h-32 bg-gradient-to-t from-transparent via-brand-dark/50 to-brand-dark"></div>
+
+      {/* Abstract Background Elements */}
+      <div className="absolute top-0 right-0 w-1/2 h-full bg-brand-blue/10 blur-[120px] rounded-full"></div>
+      <div className="absolute bottom-0 left-0 w-1/3 h-1/2 bg-brand-accent/5 blur-[100px] rounded-full"></div>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="text-center mb-16">
-          <h2 className="font-display text-4xl font-bold text-brand-dark mb-6">Eventos & Participações</h2>
-          <p className="text-gray-600 text-lg">Minha presença na comunidade tech</p>
+          <h2 className="font-display text-4xl font-bold text-white mb-6">Eventos & Participações</h2>
+          <p className="text-gray-300 text-lg">Minha presença na comunidade tech</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {events?.slice(0, showAllEvents ? events.length : (isMobile ? 3 : 6)).map((event, index) => (
-            <div key={index} className="bg-brand-light rounded-xl p-6 hover:shadow-md transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
+            <div key={index} className="bg-white rounded-xl p-6 hover:shadow-md transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
               <div className="flex items-start gap-4">
                 <div className="w-12 h-12 bg-brand-blue rounded-lg flex items-center justify-center text-white text-xl flex-shrink-0">
                   {event.type === 'Palestra' && '🎤'}

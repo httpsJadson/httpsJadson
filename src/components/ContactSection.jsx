@@ -1,6 +1,17 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 function ContactSection({ contact }) {
+  const [message, setMessage] = useState('')
+
+  const handleWhatsAppSend = () => {
+    if (!message.trim()) {
+      alert('Por favor, digite uma mensagem antes de enviar.')
+      return
+    }
+
+    const whatsappUrl = `${contact?.social?.whatsapp}?text=${encodeURIComponent(message)}`
+    window.open(whatsappUrl, '_blank')
+  }
   return (
     <section id="contact" className="py-20 bg-brand-dark text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -71,9 +82,28 @@ function ContactSection({ contact }) {
               Seja para desenvolvimento de aplicações web, tecnologias assistivas ou consultoria técnica,
               estou aqui para ajudar sua ideia se tornar realidade.
             </p>
-            <button className="w-full bg-brand-blue hover:bg-brand-accent text-white font-bold py-3 rounded-lg transition shadow-lg">
-              Iniciar Conversa
-            </button>
+
+            <div className="space-y-4">
+              <div>
+               
+                <textarea
+                  id="message"
+                  value={message}
+                  onChange={(e) => setMessage(e.target.value)}
+                  placeholder="Olá Jadson! Gostaria de conversar sobre..."
+                  className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-brand-blue focus:border-transparent resize-none"
+                  rows="4"
+                />
+              </div>
+
+              <button
+                onClick={handleWhatsAppSend}
+                className="w-full bg-brand-blue hover:bg-brand-accent text-white font-bold py-3 rounded-lg transition shadow-lg flex items-center justify-center gap-2"
+              >
+                
+                Enviar Mensagem
+              </button>
+            </div>
           </div>
         </div>
       </div>
