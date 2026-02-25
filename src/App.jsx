@@ -8,6 +8,7 @@ function App() {
   const [isMobile, setIsMobile] = useState(false)
   const [showAllProjects, setShowAllProjects] = useState(false)
   const [showAllExperience, setShowAllExperience] = useState(false)
+  const [showAllEducation, setShowAllEducation] = useState(false)
   const [showAllEvents, setShowAllEvents] = useState(false)
   const [showAllCertifications, setShowAllCertifications] = useState(false)
 
@@ -69,6 +70,7 @@ function App() {
               <button onClick={() => scrollToSection('about')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Sobre</button>
               <button onClick={() => scrollToSection('projects')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Projetos</button>
               <button onClick={() => scrollToSection('experience')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Experiência</button>
+              <button onClick={() => scrollToSection('education')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Educação</button>
               <button onClick={() => scrollToSection('contact')} className="text-gray-300 hover:text-white px-3 py-2 text-sm font-medium transition">Contato</button>
             </nav>
 
@@ -93,6 +95,7 @@ function App() {
                 <button onClick={() => scrollToSection('about')} className="block w-full text-left text-gray-300 hover:text-white px-3 py-2 text-base font-medium">Sobre</button>
                 <button onClick={() => scrollToSection('projects')} className="block w-full text-left text-gray-300 hover:text-white px-3 py-2 text-base font-medium">Projetos</button>
                 <button onClick={() => scrollToSection('experience')} className="block w-full text-left text-gray-300 hover:text-white px-3 py-2 text-base font-medium">Experiência</button>
+                <button onClick={() => scrollToSection('education')} className="block w-full text-left text-gray-300 hover:text-white px-3 py-2 text-base font-medium">Educação</button>
                 <button onClick={() => scrollToSection('contact')} className="block w-full text-left text-gray-300 hover:text-white px-3 py-2 text-base font-medium">Contato</button>
               </div>
             </div>
@@ -328,6 +331,54 @@ function App() {
                   className="bg-brand-blue hover:bg-brand-accent text-white px-8 py-3 rounded-md font-medium transition shadow-lg shadow-brand-blue/30"
                 >
                   {showAllExperience ? 'Ver Menos' : `Ver Toda Experiência (${experience.length})`}
+                </button>
+              </div>
+            )}
+          </div>
+        </section>
+
+        {/* Education Section */}
+        <section id="education" className="py-20 bg-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center mb-16">
+              <h2 className="font-display text-4xl font-bold text-brand-dark mb-6">Formação Acadêmica</h2>
+              <p className="text-gray-600 text-lg">Minha trajetória educacional e qualificações</p>
+            </div>
+
+            <div className="space-y-8">
+              {education?.slice(0, showAllEducation ? education.length : (isMobile ? 3 : 6)).map((edu, index) => (
+                <div key={index} className="bg-brand-light rounded-xl p-8 shadow-sm hover:shadow-md transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
+                  <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
+                    <div>
+                      <h3 className="font-display text-xl font-bold text-brand-dark mb-1">{edu.degree}</h3>
+                      <p className="text-brand-blue font-medium">{edu.institution}</p>
+                      <p className="text-gray-600 text-sm">{edu.location}</p>
+                    </div>
+                    <div className="text-right text-sm text-gray-500 mt-2 md:mt-0">
+                      <div>{edu.period}</div>
+                      <div className={`inline-block px-2 py-1 rounded text-xs font-medium ${
+                        edu.status === 'Concluído' ? 'bg-green-100 text-green-800' : 'bg-blue-100 text-blue-800'
+                      }`}>
+                        {edu.status}
+                      </div>
+                    </div>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    <span className="bg-brand-blue/10 text-brand-blue px-3 py-1 rounded-full text-sm font-medium">
+                      {edu.type}
+                    </span>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {education?.length > (isMobile ? 3 : 6) && (
+              <div className="text-center mt-12">
+                <button
+                  onClick={() => setShowAllEducation(!showAllEducation)}
+                  className="bg-brand-blue hover:bg-brand-accent text-white px-8 py-3 rounded-md font-medium transition shadow-lg shadow-brand-blue/30"
+                >
+                  {showAllEducation ? 'Ver Menos' : `Ver Toda Formação (${education.length})`}
                 </button>
               </div>
             )}
