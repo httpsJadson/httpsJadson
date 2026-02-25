@@ -45,22 +45,103 @@
         "Acessibilidade"
       ],
       "featured": true,
-      "url": "https://e-vision.tech"
+      "url": "https://www.youtube.com/watch?v=Es73Lr2G_w4"
     },
     {
-      "id": "fullstack-apps",
-      "title": "Aplicações Web Full Stack",
-      "description": "Desenvolvimento completo de aplicações web modernas utilizando React/Next.js no frontend e Node.js/NestJS no backend. APIs RESTful, integração com bancos de dados e deploy em nuvem.",
-      "image": null,
+      "id": "projeto-agenda",
+      "title": "Agenda de Contatos",
+      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
+      "image": "images/agenda.png",
       "technologies": [
-        "React",
-        "Next.js",
-        "NestJS",
-        "PostgreSQL"
+        "JavaScript",
+        "Express",
+        "EJS",
+        "Mongoose",
+        "MongoDB"
       ],
       "featured": true,
-      "url": "https://portfolio-apps.vercel.app",
-      "github": "https://github.com/jadson-silva/fullstack-apps"
+      "url": "https://agenda.jadson.cloud",
+      "github": "https://github.com/httpsJadson/projeto-agenda"
+    },
+    {
+      "id": "projeto-agenda",
+      "title": "Agenda de Contatos",
+      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
+      "image": "images/agenda.png",
+      "technologies": [
+        "JavaScript",
+        "Express",
+        "EJS",
+        "Mongoose",
+        "MongoDB"
+      ],
+      "featured": true,
+      "url": "https://agenda.jadson.cloud",
+      "github": "https://github.com/httpsJadson/projeto-agenda"
+    },
+    {
+      "id": "projeto-agenda",
+      "title": "Agenda de Contatos",
+      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
+      "image": "images/agenda.png",
+      "technologies": [
+        "JavaScript",
+        "Express",
+        "EJS",
+        "Mongoose",
+        "MongoDB"
+      ],
+      "featured": true,
+      "url": "https://agenda.jadson.cloud",
+      "github": "https://github.com/httpsJadson/projeto-agenda"
+    },
+    {
+      "id": "projeto-agenda",
+      "title": "Agenda de Contatos",
+      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
+      "image": "images/agenda.png",
+      "technologies": [
+        "JavaScript",
+        "Express",
+        "EJS",
+        "Mongoose",
+        "MongoDB"
+      ],
+      "featured": true,
+      "url": "https://agenda.jadson.cloud",
+      "github": "https://github.com/httpsJadson/projeto-agenda"
+    },
+    {
+      "id": "projeto-agenda",
+      "title": "Agenda de Contatos",
+      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
+      "image": "images/agenda.png",
+      "technologies": [
+        "JavaScript",
+        "Express",
+        "EJS",
+        "Mongoose",
+        "MongoDB"
+      ],
+      "featured": true,
+      "url": "https://agenda.jadson.cloud",
+      "github": "https://github.com/httpsJadson/projeto-agenda"
+    },
+    {
+      "id": "projeto-agenda",
+      "title": "Agenda de Contatos",
+      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
+      "image": "images/agenda.png",
+      "technologies": [
+        "JavaScript",
+        "Express",
+        "EJS",
+        "Mongoose",
+        "MongoDB"
+      ],
+      "featured": true,
+      "url": "https://agenda.jadson.cloud",
+      "github": "https://github.com/httpsJadson/projeto-agenda"
     }
   ],
   "skills": [
