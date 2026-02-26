@@ -110,14 +110,14 @@ function App() {
           setShowAllEducation={setShowAllEducation}
         />
 
-        <EventsSection
+       {/* <EventsSection
           events={events}
           isMobile={isMobile}
           showAllEvents={showAllEvents}
           setShowAllEvents={setShowAllEvents}
         />
 
-        {/* <TimelineSection /> */}
+         <TimelineSection /> */}
 
         <CertificationsSection
           certifications={certifications}
