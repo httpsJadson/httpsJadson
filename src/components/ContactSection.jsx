@@ -9,7 +9,7 @@ function ContactSection({ contact }) {
       return
     }
 
-    const whatsappUrl = `${contact?.social?.whatsapp}?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `${contact?.whatsapp}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, '_blank')
   }
   return (

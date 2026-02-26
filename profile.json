@@ -64,84 +64,52 @@
       "github": "https://github.com/httpsJadson/projeto-agenda"
     },
     {
-      "id": "projeto-agenda",
-      "title": "Agenda de Contatos",
-      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
-      "image": "images/agenda.png",
+      "id": "aristoclass",
+      "title": "Aristoclass",
+      "description": "Projeto de conclusão desenvolvido na plataforma WordPress para disponibilizar conteúdos educacionais de forma gratuita.",
+      "image": "images/aristoclass.png",
       "technologies": [
         "JavaScript",
-        "Express",
-        "EJS",
-        "Mongoose",
-        "MongoDB"
+        "WordPress",
+        "PHP",
+        "HTML",
+        "CSS"
       ],
       "featured": true,
-      "url": "https://agenda.jadson.cloud",
-      "github": "https://github.com/httpsJadson/projeto-agenda"
+      "url": "https://aristoclass.site",
+      "github": null
     },
     {
-      "id": "projeto-agenda",
-      "title": "Agenda de Contatos",
-      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
-      "image": "images/agenda.png",
+      "id": "waveconference",
+      "title": "Wave Conference",
+      "description": "Projeto de formulário para inscrições na UmadiWave, um evento promovido por uma igreja da minha cidade.",
+      "image": "images/waveconference.png",
       "technologies": [
-        "JavaScript",
-        "Express",
-        "EJS",
-        "Mongoose",
-        "MongoDB"
+        "React",
+        "RestAPI",
+        "MariaDB",
+        "Sequelize",
+        "CSS"
       ],
       "featured": true,
-      "url": "https://agenda.jadson.cloud",
-      "github": "https://github.com/httpsJadson/projeto-agenda"
+      "url": "https://umadiwave.jadson.cloud",
+      "github": "https://github.com/httpsJadson/umadi-wave"
     },
     {
-      "id": "projeto-agenda",
-      "title": "Agenda de Contatos",
-      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
-      "image": "images/agenda.png",
+      "id": "gerador-de-paleta",
+      "title": "Gerador de Paleta",
+      "description": "Projeto de um gerador de paletas de cores que cria combinações harmonizadas automaticamente e permite ao usuário ajustar, copiar ou exportar cada cor.",
+      "image": "images/gerador-de-paleta.png",
       "technologies": [
+        "HTML",
         "JavaScript",
-        "Express",
-        "EJS",
-        "Mongoose",
-        "MongoDB"
+        "Tailwind CSS",
+        "Sequelize",
+        "CSS"
       ],
       "featured": true,
-      "url": "https://agenda.jadson.cloud",
-      "github": "https://github.com/httpsJadson/projeto-agenda"
-    },
-    {
-      "id": "projeto-agenda",
-      "title": "Agenda de Contatos",
-      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
-      "image": "images/agenda.png",
-      "technologies": [
-        "JavaScript",
-        "Express",
-        "EJS",
-        "Mongoose",
-        "MongoDB"
-      ],
-      "featured": true,
-      "url": "https://agenda.jadson.cloud",
-      "github": "https://github.com/httpsJadson/projeto-agenda"
-    },
-    {
-      "id": "projeto-agenda",
-      "title": "Agenda de Contatos",
-      "description": "Projeto desenvolvido em javaScript utilizando arquitetura mvc, usa de frameworks como express e ejs, conectado a um banco de dados MongoDB.",
-      "image": "images/agenda.png",
-      "technologies": [
-        "JavaScript",
-        "Express",
-        "EJS",
-        "Mongoose",
-        "MongoDB"
-      ],
-      "featured": true,
-      "url": "https://agenda.jadson.cloud",
-      "github": "https://github.com/httpsJadson/projeto-agenda"
+      "url": "https://httpsjadson.github.io/gerador-de-paleta/public/index.html",
+      "github": "https://github.com/httpsJadson/gerador-de-paleta"
     }
   ],
   "skills": [
@@ -344,7 +312,7 @@
     "email": "jadson.silva@email.com",
     "phone": "+55 (85) 99999-9999",
     "location": "Itaitinga, Ceará, Brasil",
-    "whatsapp": "https://wa.me/558591277592?text=",
+    "whatsapp": "https://wa.me/558591277592",
     "social": {
       "linkedin": "https://linkedin.com/in/jadson-silva",
       "github": "https://github.com/jadson-silva",
