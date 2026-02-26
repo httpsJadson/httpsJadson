@@ -17,6 +17,56 @@
     "technologies": 10,
     "certifications": 6
   },
+  "skills": [
+    {
+      "category": "Backend",
+      "icon": "🚀",
+      "technologies": [
+        "NestJS",
+        "Node.js",
+        "Express",
+        "FastAPI",
+        "Python",
+        "PHP",
+        "TypeScript",
+        "REST APIs"
+      ]
+    },
+    {
+      "category": "Banco de Dados",
+      "icon": "🗄️",
+      "technologies": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "MariaDB",
+        "SQLite"
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "icon": "☁️",
+      "technologies": [
+        "AWS",
+        "Google Cloud Platform",
+        "Docker",
+        "Vercel",
+        "Git"
+      ]
+    },
+    {
+      "category": "Ferramentas",
+      "icon": "🛠️",
+      "technologies": [
+        "VS Code",
+        "GitHub",
+        "Linux",
+        "npm",
+        "Webpack",
+        "IntelliJ IDEA"
+      ]
+    }
+  ],
   "projects": [
     {
       "id": "calculadora-alimentos",
@@ -81,19 +131,18 @@
     },
     {
       "id": "waveconference",
-      "title": "Wave Conference",
-      "description": "Projeto de formulário para inscrições na UmadiWave, um evento promovido por uma igreja da minha cidade.",
+      "title": "API Wave Conference",
+      "description": "Desenvolvi a api para o projeto de formulário de inscrições na UmadiWave, um evento promovido por uma igreja da minha cidade, em colaboração com outro desenvolvedor.",
       "image": "images/waveconference.png",
       "technologies": [
-        "React",
         "RestAPI",
         "MariaDB",
         "Sequelize",
-        "CSS"
+        "Express"
       ],
       "featured": true,
       "url": "https://umadiwave.jadson.cloud",
-      "github": "https://github.com/httpsJadson/umadi-wave"
+      "github": "https://github.com/httpsJadson/api-umadi"
     },
     {
       "id": "gerador-de-paleta",
@@ -104,7 +153,6 @@
         "HTML",
         "JavaScript",
         "Tailwind CSS",
-        "Sequelize",
         "CSS"
       ],
       "featured": true,
@@ -112,54 +160,48 @@
       "github": "https://github.com/httpsJadson/gerador-de-paleta"
     }
   ],
-  "skills": [
+  "experience": [
     {
-      "category": "Backend",
-      "icon": "🚀",
-      "technologies": [
-        "NestJS",
-        "Node.js",
-        "Express",
-        "FastAPI",
-        "Python",
-        "PHP",
-        "TypeScript",
-        "REST APIs"
-      ]
+      "position": "Estagiário de Desenvolvimento",
+      "company": "Expand UP",
+      "location": "Itaitinga, Ceará, Brasil",
+      "period": "agosto de 2025 - fevereiro de 2026",
+      "duration": "7 meses",
+      "description": "Desenvolvimento de landing pages profissionais com foco em conversão e performance. Atuação no front-end e back-end de aplicações SaaS, utilizando HTML, CSS, Tailwind CSS, JavaScript e PHP para WordPress. Colaboração em projetos reais, participando desde a implementação até ajustes pós-deploy e análise de negócios. Experiência prática com versionamento de código e ambientes de produção.",
+      "technologies": ["JavaScript", "PHP", "WordPress", "Tailwind CSS"],
+      "achievements": null
     },
     {
-      "category": "Banco de Dados",
-      "icon": "🗄️",
-      "technologies": [
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "MariaDB",
-        "SQLite"
+      "position": "Desenvolvedor - Projeto E-vision",
+      "company": "Escola",
+      "location": "Itaitinga, Ceará, Brasil",
+      "period": "março de 2024 - dezembro de 2025",
+      "duration": "1 ano 10 meses",
+      "description": "Projeto que visa desenvolver tecnologias assistivas para pessoas com deficiência visual, utilizando visão computacional e IoT, com foco em acessibilidade e inclusão social de deficientes visuais em ambientes escolares.",
+      "technologies": ["Python", "IoT", "Computer Vision", "Acessibilidade"],
+      "achievements": [
+        "Sistema de identificação visual com IA",
+        "Protótipo testado com 4 usuários com deficiência visual",
+        "Reconhecimento nacional"
       ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Análise e Desenvolvimento de Sistemas",
+      "institution": "Centro Universitário Ateneu",
+      "location": "Fortaleza, CE",
+      "period": "2026 - 2028",
+      "type": "Graduação",
+      "status": "Cursando"
     },
     {
-      "category": "Cloud & DevOps",
-      "icon": "☁️",
-      "technologies": [
-        "AWS",
-        "Google Cloud Platform",
-        "Docker",
-        "Vercel",
-        "Git"
-      ]
-    },
-    {
-      "category": "Ferramentas",
-      "icon": "🛠️",
-      "technologies": [
-        "VS Code",
-        "GitHub",
-        "Linux",
-        "npm",
-        "Webpack",
-        "IntelliJ IDEA"
-      ]
+      "degree": "Técnico em Redes de Computadores",
+      "institution": "E.E.E.P. Professor Francisco Aristóteles de Sousa",
+      "location": "Itaitinga, CE",
+      "period": "2023 - 2025",
+      "type": "Técnico",
+      "status": "Concluído"
     }
   ],
   "certifications": [
@@ -210,54 +252,6 @@
       "image": null,
       "duration": "60H",
       "date": "2024"
-    }
-  ],
-  "education": [
-    {
-      "degree": "Análise e Desenvolvimento de Sistemas",
-      "institution": "Centro Universitário Ateneu",
-      "location": "Fortaleza, CE",
-      "period": "2026 - 2028",
-      "type": "Graduação",
-      "status": "Cursando"
-    },
-    {
-      "degree": "Técnico em Redes de Computadores",
-      "institution": "E.E.E.P. Professor Francisco Aristóteles de Sousa",
-      "location": "Itaitinga, CE",
-      "period": "2023 - 2025",
-      "type": "Técnico",
-      "status": "Concluído"
-    }
-  ],
-  "experience": [
-    {
-      "position": "Estagiário de Desenvolvimento",
-      "company": "Expand UP",
-      "location": "Itaitinga, Ceará, Brasil",
-      "period": "agosto de 2025 - Presente",
-      "duration": "7 meses",
-      "description": "Desenvolvimento de landing pages profissionais com foco em conversão e performance. Atuação no front-end e back-end de aplicações SaaS, utilizando HTML, CSS, Tailwind CSS, JavaScript e PHP. Colaboração em projetos reais, participando desde a implementação até ajustes pós-deploy. Experiência prática com versionamento de código e ambientes de produção.",
-      "technologies": ["JavaScript", "PHP", "WordPress", "Tailwind CSS"],
-      "achievements": [
-        "Desenvolvimento de 5 landing pages com taxa de conversão > 15%",
-        "Implementação de sistema de analytics e tracking",
-        "Otimização de performance (Core Web Vitals)"
-      ]
-    },
-    {
-      "position": "Desenvolvedor - Projeto E-vision",
-      "company": "Autônomo",
-      "location": "Itaitinga, Ceará, Brasil",
-      "period": "março de 2024 - dezembro de 2025",
-      "duration": "1 ano 10 meses",
-      "description": "Projeto autônomo de desenvolvimento de tecnologias assistivas para deficientes visuais. Sistema completo de identificação com foco em acessibilidade e inclusão social. Desenvolvimento de protótipos funcionais e testes com usuários reais.",
-      "technologies": ["Python", "IoT", "Computer Vision", "Acessibilidade"],
-      "achievements": [
-        "Sistema de identificação visual com 85% de precisão",
-        "Protótipo testado com 20 usuários com deficiência visual",
-        "Publicação em revista científica nacional"
-      ]
     }
   ],
   "events": [
