@@ -207,50 +207,82 @@
   "certifications": [
     {
       "id": "aws-cloud-practitioner",
-      "title": "AWS Certified Cloud Practitioner",
-      "issuer": "Amazon Web Services",
-      "image": null,
-      "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+      "title": "AWS Academy Graduate - Cloud Foundations",
+      "issuer": "Amazon Web Services Training",
+      "image": "aws-academy-graduate-cloud-foundations-training-bad.png",
+      "duration": "40H",
+      "url": "https://www.credly.com/earner/earned/share/76c4628a-0a50-467e-a6d2-94289b969929",
       "date": "2025"
     },
     {
       "id": "javascript-essentials",
       "title": "JavaScript Essentials 2",
       "issuer": "Cisco Networking Academy",
-      "image": null,
-      "url": "https://www.netacad.com/",
-      "date": "2024"
+      "image": "javascript-essentials.png",
+      "duration":"60H",
+      "url": "https://www.credly.com/earner/earned/share/86ee1a45-bcb7-4d70-b072-26ac007e9558",
+      "date": "2026"
     },
     {
       "id": "engenharia-software",
       "title": "Engenharia de Software",
       "issuer": "FIAP",
-      "image": null,
+      "image": "fiap.png",
       "duration": "100H",
+      "url": "https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=2d5f94cf8801d77b58544104f534757f&action=view",
       "date": "2024"
     },
     {
       "id": "linux-essentials",
       "title": "NDG Linux Essentials",
       "issuer": "Cisco Networking Academy",
-      "image": null,
-      "url": "https://www.netacad.com/",
+      "image": "ndg-linux-essentials.png",
+      "duration": "6H",
+      "url": "https://drive.google.com/file/d/1mximoFjUXTFptzaowQk8ZGzMw87-SROH/view?usp=sharing",
       "date": "2024"
     },
     {
       "id": "data-science-intro",
       "title": "Introduction to Data Science",
       "issuer": "Cisco Networking Academy",
-      "image": null,
-      "url": "https://www.netacad.com/",
+      "image": "introduction-to-data-science.png",
+      "duration": "6H",
+      "url": "https://www.credly.com/badges/304e1ef3-2c19-46b5-adc5-d8dd2a2d31db/public_url",
       "date": "2024"
     },
     {
       "id": "devops-agile",
       "title": "DevOps e Agile Culture",
       "issuer": "FIAP",
-      "image": null,
+      "image": "fiap.png",
       "duration": "60H",
+      "date": "In Progress"
+    },
+    {
+      "id": "python-essentials-1",
+      "title": "Python Essentials 1",
+      "issuer": "Cisco Networking Academy",
+      "image": "python-essentials-1.1.png",
+      "duration": "40H",
+      "url": "https://www.credly.com/badges/9bec1e5d-4fe2-45e9-b3a8-000dff7566c7/public_url",
+      "date": "2024"
+    },
+    {
+      "id": "java-development",
+      "title": "Java Development",
+      "issuer": "FIAP",
+      "image": "fiap.png",
+      "duration": "40H",
+      "url": "https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=2d5f94cf8801d77b58544104f534757f&action=view",
+      "date": "2026"
+    },
+    {
+      "id": "google-it-support",
+      "title": "Google IT Support Professional Certificate(V2)",
+      "issuer": "Coursera",
+      "image": "google-it-support-professional-certificate-v2.png",
+      "duration": "40H",
+      "url": "https://www.credly.com/badges/0537690c-4351-430c-9d76-1d18450c81c1/public_url",
       "date": "2024"
     }
   ],

@@ -13,7 +13,7 @@ function CertificationsSection({ certifications, isMobile, showAllCertifications
           {certifications?.slice(0, showAllCertifications ? certifications.length : (isMobile ? 3 : 6)).map((cert, index) => (
             <div key={cert.id} className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition animate-fade-in" style={{animationDelay: `${index * 0.1}s`}}>
               <div className="w-16 h-16 bg-gradient-to-br from-brand-blue to-brand-accent rounded-lg flex items-center justify-center text-white text-2xl mb-4">
-                🏆
+                {cert.image && <img src={`images/${cert.image}`} alt={cert.title} className="w-16 h-16 object-contain" />}
               </div>
               <h3 className="font-bold text-brand-dark mb-2">{cert.title}</h3>
               <p className="text-brand-blue font-medium text-sm mb-2">{cert.issuer}</p>
