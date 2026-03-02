@@ -118,7 +118,7 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/aws-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
