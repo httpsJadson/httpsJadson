@@ -1,14 +1,10 @@
-# 👨🏽‍💻Jadson Silva - Portfólio
+# 👨🏽‍💻Jadson Silva
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36F&lines=Desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36F&lines=Desenvolvedor+BackEnd)](https://git.io/typing-svg)
 
+Me chamo Jadson Araújo da Silva, tenho 18 anos e sou do Ceará. Sempre gostei de tecnologia e acabei seguindo esse caminho de forma natural. Concluí o ensino médio junto com o curso técnico em Redes de Computadores e atualmente curso Análise e Desenvolvimento de Sistemas, o que abriu ainda mais minha curiosidade pelo mundo do desenvolvimento.
 
-Me chamo Jadson Araújo da Silva, tenho 18 anos e sou do Ceará. Sempre gostei de tecnologia e acabei seguindo esse caminho de forma natural. Concluí o ensino médio junto com o curso técnico em Redes de Computadores, o que abriu ainda mais minha curiosidade pelo mundo do desenvolvimento.
-
-
-Me chamo Jadson Araújo da Silva, tenho 18 anos e sou do Ceará. Sempre gostei de tecnologia e acabei seguindo esse caminho de forma natural. Concluí o ensino médio junto com o curso técnico em Redes de Computadores, o que abriu ainda mais minha curiosidade pelo mundo do desenvolvimento.
-
-Atualmente sou Desenvolvedor Full Stack focado em aplicações web escaláveis, trabalhando principalmente com React, Next.js, NestJS e TypeScript. Tenho experiência sólida com infraestrutura em nuvem (AWS & GCP) e bancos de dados relacionais e não relacionais.
+Atualmente sou Desenvolvedor Backend com experiência em desenvolvimento focado em aplicações web escaláveis, trabalhando principalmente com NestJS e Spring. Tenho experiência com infraestrutura em nuvem (AWS & GCP) e bancos de dados relacionais e não relacionais.
 
 Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criando projetos, testando ideias novas ou simplesmente aprendendo algo diferente que possa me levar mais longe. Gosto de construir coisas que façam sentido e me desafiem de verdade.
 
@@ -16,22 +12,6 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -50,11 +30,19 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
@@ -74,35 +62,11 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Wordpress" 
-    title="Wordpress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
 />
 <img 
     align="left" 
@@ -128,33 +92,14 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+
 
 <br/>
 <br/>
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=httpsJadson&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | 
- [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsJadson&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-## �🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-a-silva)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.jadson)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1F1F1F?style=for-the-badge&logo=window&logoColor=white)](https://dev-jadson.com)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsJadson&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=httpsJadson&theme=algolia)   |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=httpsJadson&theme=algolia)
+## 🌐 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-a-silva) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.jadson) [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1F1F1F?style=for-the-badge&logo=window&logoColor=white)](https://portfolio.jadson.cloud)
 
 
