@@ -61,23 +61,23 @@
 }
 
 .animate-float {
-  animation: float 6s ease-in-out infinite;
+  animation: float 1s ease-in-out infinite;
 }
 
 .animate-float-reverse {
-  animation: floatReverse 7s ease-in-out infinite;
+  animation: floatReverse 2s ease-in-out infinite;
 }
 
 .animate-pulse-slow {
-  animation: pulse-slow 4s ease-in-out infinite;
+  animation: pulse-slow 1s ease-in-out infinite;
 }
 
 .animate-rotate-slow {
-  animation: rotate-slow 20s linear infinite;
+  animation: rotate-slow 3s linear infinite;
 }
 
 .animate-blob {
-  animation: blob 7s infinite;
+  animation: blob 2s infinite;
 }
 
 /* Smooth scrolling */
