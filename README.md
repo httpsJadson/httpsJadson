@@ -118,7 +118,7 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -151,14 +151,12 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=httpsJadson&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsJadson&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-
-## � Certificações
-- **AWS Certified Cloud Practitioner** - Amazon Web Services
-- **JavaScript Essentials 2** - Cisco Networking Academy  
-- **Engenharia de Software** - FIAP (100H)
-- **NDG Linux Essentials** - Cisco Networking Academy
-- **Introduction to Data Science** - Cisco Networking Academy
-- **DevOps e Agile Culture** - FIAP (60H)
+<p align="center">
+  <img 
+    height="200"
+    src="https://streak-stats.demolab.com?user=httpsJadson&theme=tokyonight"
+  />
+</p> 
 
 ## �🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-a-silva)
