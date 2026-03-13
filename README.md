@@ -148,15 +148,9 @@ Hoje, sigo evoluindo como dev e buscando me aprimorar todos os dias, seja criand
 <br/>
 <br/>
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=httpsJadson&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsJadson&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=httpsJadson&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | 
+ [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsJadson&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-
-<p align="center">
-  <img 
-    height="200"
-    src="https://streak-stats.demolab.com?user=httpsJadson&theme=tokyonight"
-  />
-</p> 
 
 ## �🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-a-silva)
